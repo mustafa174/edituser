@@ -1,0 +1,39 @@
+{
+  "files": {
+<<<<<<< HEAD
+    "main.css": "/mustafa174/edituser/static/css/main.d08e491c.chunk.css",
+    "main.js": "/mustafa174/edituser/static/js/main.f8899a48.chunk.js",
+    "main.js.map": "/mustafa174/edituser/static/js/main.f8899a48.chunk.js.map",
+    "runtime-main.js": "/mustafa174/edituser/static/js/runtime-main.5707d05b.js",
+    "runtime-main.js.map": "/mustafa174/edituser/static/js/runtime-main.5707d05b.js.map",
+    "static/js/2.e03d0fd8.chunk.js": "/mustafa174/edituser/static/js/2.e03d0fd8.chunk.js",
+    "static/js/2.e03d0fd8.chunk.js.map": "/mustafa174/edituser/static/js/2.e03d0fd8.chunk.js.map",
+    "index.html": "/mustafa174/edituser/index.html",
+    "static/css/main.d08e491c.chunk.css.map": "/mustafa174/edituser/static/css/main.d08e491c.chunk.css.map",
+    "static/js/2.e03d0fd8.chunk.js.LICENSE.txt": "/mustafa174/edituser/static/js/2.e03d0fd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5707d05b.js",
+    "static/js/2.e03d0fd8.chunk.js",
+    "static/css/main.d08e491c.chunk.css",
+    "static/js/main.f8899a48.chunk.js"
+=======
+    "main.css": "/edituser/static/css/main.d08e491c.chunk.css",
+    "main.js": "/edituser/static/js/main.eaa70556.chunk.js",
+    "main.js.map": "/edituser/static/js/main.eaa70556.chunk.js.map",
+    "runtime-main.js": "/edituser/static/js/runtime-main.8e7620ae.js",
+    "runtime-main.js.map": "/edituser/static/js/runtime-main.8e7620ae.js.map",
+    "static/js/2.e03d0fd8.chunk.js": "/edituser/static/js/2.e03d0fd8.chunk.js",
+    "static/js/2.e03d0fd8.chunk.js.map": "/edituser/static/js/2.e03d0fd8.chunk.js.map",
+    "index.html": "/edituser/index.html",
+    "static/css/main.d08e491c.chunk.css.map": "/edituser/static/css/main.d08e491c.chunk.css.map",
+    "static/js/2.e03d0fd8.chunk.js.LICENSE.txt": "/edituser/static/js/2.e03d0fd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e7620ae.js",
+    "static/js/2.e03d0fd8.chunk.js",
+    "static/css/main.d08e491c.chunk.css",
+    "static/js/main.eaa70556.chunk.js"
+>>>>>>> f35b2be (first commit)
+  ]
+}
